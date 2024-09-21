@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<table-metadata id="test">
+    <!-- 数据定义SQL -->
+    <ddl>
+        <table name="tb_user">
+            <column name="user_id" type="varchar(32)" primary="true" />
+            <column name="user_name" type="nvarchar(256)" not-null="true" />
+            <column name="user_age" type="int" not-null="true" />
+            <column name="create_time" type="timestamp" not-null="true" />
+            <column name="last_modify_time" type="timestamp" not-null="true" />
+        </table>
+    </ddl>
+</table-metadata>
