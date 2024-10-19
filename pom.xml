@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.jiashunx.devkit</groupId>
     <artifactId>masker-database</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0.RC</version>
     <name>masker-database</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
