@@ -15,6 +15,6 @@
 <dependency>
     <groupId>io.github.jiashunx.devkit</groupId>
     <artifactId>masker-database</artifactId>
-    <version>x.y.z-SNAPSHOT</version>
+    <version>1.0.0.RELEASE</version>
 </dependency>
 ```
